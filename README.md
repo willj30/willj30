@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willj30
-- 👀 I’m interested in retro gaming consoles, science fiction, and football.
+- 👀 I’m interested in retro gaming consoles, diy projects, and football.
 - 🌱 I’m currently learning how to code in the UT Austin Bootcamp.
 - 💞️ I’m looking to collaborate on new projects and learning opportunities.
 - 📫 instagram/twitter: @willjaramillo30
