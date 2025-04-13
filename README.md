@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willj30
 - 👀 I’m interested in retro gaming consoles, diy projects, and web development.
 - 🌱 Currently learning webflow and working towards freelance web development.
-- 💞️ I’m looking to collaborate on new projects and learning opportunities website building.
+- 💞️ I’m looking to collaborate on new projects and learning opportunities building websites.
 - 📫 instagram: @willjaramillo30
 
 <!---
